@@ -1,4 +1,4 @@
-
+## userscripts
 ### yt-extract.js
 insere os diálogos de um video de youtube no clipboard do sistema. util pra apredizagem de linguas.
 
@@ -11,4 +11,5 @@ remove o border-radius dos albuns da biblioteca do spotify versão web (odeio i
 tentativa em remover todas as distrações do youtube. não funcionando por enquanto.
 <details>
 <summary>foto</summary>
+<img src="img/simple-yt.png">
 </details>
